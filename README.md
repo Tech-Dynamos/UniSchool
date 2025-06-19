@@ -4,7 +4,7 @@
 [![Made with React] 
 
 <p align="center">
-  <img src="https://ibb.co/6JXykrrR" alt="UniSchool Logo" width="300"/>
+  <img src="https://github.com/attariCreation/UniSchool_React_javascript/blob/main/src/assets/images/logo.png" alt="UniSchool Logo" width="300"/>
 </p>
 
 **UniSchool** is a modern, scalable, and secure multi-tenant school management platform. Each school gets its own workspace to handle academic, administrative, and communication needs—all from a single interface.
@@ -64,7 +64,7 @@ The public-facing section includes:
 
 
 <p align="center">
-  <img src="https://ibb.co/G4KWn79J" width="600"/>
+  <img src="https://github.com/attariCreation/UniSchool_React_javascript/blob/main/src/assets/images/managment2.webp" width="600"/>
 </p>
 
 ## 🎨 School Customization & Theme
@@ -85,7 +85,7 @@ Students and Parents join via:
 
 <p align="center">
   Keep Learning 
-  <img src="https://ibb.co/G4KWn79J" width="600"/>
+  <img src="https://github.com/attariCreation/UniSchool_React_javascript/blob/main/src/assets/images/unischool2.webp" width="600"/>
 </p>
 
 
